@@ -1,4 +1,0 @@
-*.txt
-*.sql
-backup_banco.sql.txt
-senhas.txt
